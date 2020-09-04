@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4db4e4dee244765f17b85d79da0ca4f8",
+    "revision": "4c896e769feb055f01c87d190ca6a3f2",
     "url": "/nilakshi6.github.io/index.html"
   },
   {
-    "revision": "f2e17a4a7a9dd049fbcd",
-    "url": "/nilakshi6.github.io/static/css/main.c2bdc4f3.chunk.css"
+    "revision": "ca95de95e31eeb767866",
+    "url": "/nilakshi6.github.io/static/css/main.4b8e602f.chunk.css"
   },
   {
     "revision": "4f324f67f5ca89002b8d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nilakshi6.github.io/static/js/2.ae182cf3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2e17a4a7a9dd049fbcd",
-    "url": "/nilakshi6.github.io/static/js/main.3732d67e.chunk.js"
+    "revision": "ca95de95e31eeb767866",
+    "url": "/nilakshi6.github.io/static/js/main.31ce9610.chunk.js"
   },
   {
     "revision": "d3a7a6fbe3387b7b1f0c",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nilakshi6.github.io/static/media/background.fb2438cf.jpg"
   },
   {
-    "revision": "115ffc36cd0e8f20b2d0531934675681",
-    "url": "/nilakshi6.github.io/static/media/capture.115ffc36.jpeg"
+    "revision": "268dbe5e14ff9106fe73a02ccb509b7e",
+    "url": "/nilakshi6.github.io/static/media/capture.268dbe5e.jpeg"
   }
 ]);
