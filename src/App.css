@@ -6,7 +6,7 @@
   height: 40vmin;
   pointer-events: none;
   border-radius:50%;
-  border:5px solid gray;
+  border:5px solid whitesmoke;
 }
 
 @media (prefers-reduced-motion: no-preference) {
